@@ -1,0 +1,101 @@
+state,ageGroup,povertyPercentage,foodInsecurityPercentage
+Alabama,All ages,16.3,14.8
+Alaska,All ages,10.8,10.7
+Arizona,All ages,12.9,10.3
+Arkansas,All ages,16,15.5
+California,All ages,12.3,10.5
+Colorado,All ages,9.7,9.2
+Connecticut,All ages,10.1,10.5
+Delaware,All ages,11.5,9.9
+Florida,All ages,13.2,10.6
+Georgia,All ages,14.2,10.7
+Hawaii,All ages,10.9,11.9
+Idaho,All ages,10.8,8.2
+Illinois,All ages,12.1,9.5
+Indiana,All ages,12.1,10.7
+Iowa,All ages,11,7.5
+Kansas,All ages,11.6,9.9
+Kentucky,All ages,16.3,12.9
+Louisiana,All ages,19.5,14.8
+Maine,All ages,11.2,10.5
+Maryland,All ages,10.3,9.7
+Massachusetts,All ages,10.4,8.1
+Michigan,All ages,13,11.7
+Minnesota,All ages,9.3,6.8
+Mississippi,All ages,19.2,16.3
+Missouri,All ages,12.8,11.6
+Montana,All ages,12,8.5
+Nebraska,All ages,10.5,10
+Nevada,All ages,14,13
+New Hampshire,All ages,7.4,6.8
+New Jersey,All ages,10.2,8.8
+New Mexico,All ages,17.7,13.5
+New York,All ages,14,11.4
+North Carolina,All ages,13.5,11.8
+North Dakota,All ages,10.9,5.5
+Ohio,All ages,13.3,11.8
+Oklahoma,All ages,15.4,14.1
+Oregon,All ages,12.2,10.5
+Pennsylvania,All ages,12,9.4
+Rhode Island,All ages,12.1,9.3
+South Carolina,All ages,14.5,9.9
+South Dakota,All ages,11.9,8.1
+Tennessee,All ages,13.7,11.5
+Texas,All ages,14.2,13.7
+Utah,All ages,8.7,9.5
+Vermont,All ages,10.2,8.9
+Virginia,All ages,10.3,8.1
+Washington,All ages,9.9,8.9
+West Virginia,All ages,16.8,11.7
+Wisconsin,All ages,10.8,7.2
+Wyoming,All ages,10.6,10.6
+Alabama,Ages 0-17,22.7,18.3
+Alaska,Ages 0-17,13.5,12.8
+Arizona,Ages 0-17,17.8,14
+Arkansas,Ages 0-17,21.8,19.1
+California,Ages 0-17,15.8,13.5
+Colorado,Ages 0-17,11.8,10.5
+Connecticut,Ages 0-17,12.9,11.5
+Delaware,Ages 0-17,16.2,14.4
+Florida,Ages 0-17,18.4,14.3
+Georgia,Ages 0-17,20.5,13.3
+Hawaii,Ages 0-17,12.9,17.8
+Idaho,Ages 0-17,12.5,8.6
+Illinois,Ages 0-17,15.9,11.3
+Indiana,Ages 0-17,15.7,12.9
+Iowa,Ages 0-17,12.4,9.4
+Kansas,Ages 0-17,13.5,13.4
+Kentucky,Ages 0-17,21.2,15.2
+Louisiana,Ages 0-17,26.9,21.6
+Maine,Ages 0-17,13.8,14.6
+Maryland,Ages 0-17,14,12.1
+Massachusetts,Ages 0-17,12.8,8.4
+Michigan,Ages 0-17,17.6,13.1
+Minnesota,Ages 0-17,10.8,9.2
+Mississippi,Ages 0-17,27.1,18.8
+Missouri,Ages 0-17,16.5,12.8
+Montana,Ages 0-17,14.9,12.1
+Nebraska,Ages 0-17,12.1,12
+Nevada,Ages 0-17,18.8,18.5
+New Hampshire,Ages 0-17,9.3,8.5
+New Jersey,Ages 0-17,13.9,9.8
+New Mexico,Ages 0-17,23.1,19.2
+New York,Ages 0-17,18.8,15.4
+North Carolina,Ages 0-17,18.2,15.4
+North Dakota,Ages 0-17,11.5,7.5
+Ohio,Ages 0-17,18.2,14.8
+Oklahoma,Ages 0-17,20.5,19.1
+Oregon,Ages 0-17,13.8,12.4
+Pennsylvania,Ages 0-17,16.3,12.2
+Rhode Island,Ages 0-17,17,12.9
+South Carolina,Ages 0-17,19.7,12.6
+South Dakota,Ages 0-17,14.4,11.2
+Tennessee,Ages 0-17,18.4,12.8
+Texas,Ages 0-17,19.5,18.1
+Utah,Ages 0-17,8.5,9.8
+Vermont,Ages 0-17,11.2,10.3
+Virginia,Ages 0-17,13.3,8.8
+Washington,Ages 0-17,12,11.8
+West Virginia,Ages 0-17,21.4,14
+Wisconsin,Ages 0-17,13.6,11.1
+Wyoming,Ages 0-17,12.1,12.2
